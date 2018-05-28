@@ -1,5 +1,6 @@
 # tensorflow-nmt
-A Tensorflow implementation of Neural Machine Translation, based mostly on https://github.com/JayParks/tf-seq2seq
+A Tensorflow implementation of Neural Machine Translation, based mostly on https://github.com/JayParks/tf-seq2seq. 
+Support Tensorflow >= 1.2.1 and GPU.
 
 Features:
 * Bidirectional LSTM
