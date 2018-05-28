@@ -1,6 +1,10 @@
 # tensorflow-nmt
 A Tensorflow implementation of Neural Machine Translation, based mostly on https://github.com/JayParks/tf-seq2seq
 
+Features:
+* Bidirectional LSTM
+* Learning rate decay
+
 # Example of Chinese-to-English translation
 1. download news parallel corpus from WMT2018, e.g.
 
