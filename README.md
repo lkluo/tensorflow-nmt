@@ -5,7 +5,7 @@ Features:
 * Bidirectional LSTM
 * Learning rate decay
 
-# Example of Chinese-to-English translation
+## Example of Chinese-to-English translation
 1. download news parallel corpus from WMT2018, e.g.
 
 ```
